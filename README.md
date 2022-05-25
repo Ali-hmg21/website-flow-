@@ -2,3 +2,4 @@
 cheddar
 Gruyère
 Mozzarella
+Comté
